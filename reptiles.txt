@@ -3,3 +3,4 @@ lizard
 salamander
 dragon
 toad
+gecko

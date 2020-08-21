@@ -1,5 +1,4 @@
 Tui
 Sparrow
-Osprey
 Crane
 Albatross
